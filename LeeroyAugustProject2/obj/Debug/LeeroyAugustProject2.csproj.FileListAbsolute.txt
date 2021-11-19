@@ -1,0 +1,38 @@
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.exe.config
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.exe
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.pdb
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csprojAssemblyReference.cache
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmFrontPage.resources
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmGalgje.resources
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.Properties.Resources.resources
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csproj.GenerateResource.cache
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csproj.CoreCompileInputs.cache
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.exe
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.pdb
+D:\school\6de\csharp\projecten\project2\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmLoad.resources
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.exe.config
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.exe
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.pdb
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csprojAssemblyReference.cache
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmFrontPage.resources
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmGalgje.resources
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmLoad.resources
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.Properties.Resources.resources
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csproj.GenerateResource.cache
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csproj.CoreCompileInputs.cache
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.exe
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.pdb
+C:\Users\rll6ib\Documents\August\C\projecten\PROJACT2FR\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmAuteurs.resources
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.exe.config
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.exe
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\bin\Debug\LeeroyAugustProject2.pdb
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csprojAssemblyReference.cache
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmFrontPage.resources
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmGalgje.resources
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmLoad.resources
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.frmAuteurs.resources
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.Properties.Resources.resources
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csproj.GenerateResource.cache
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.csproj.CoreCompileInputs.cache
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.exe
+C:\Users\Leeroy\OneDrive\Documenten\qugust\the reql\LeeroyAugustProject2\LeeroyAugustProject2\obj\Debug\LeeroyAugustProject2.pdb
